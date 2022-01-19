@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stock_calc", "stock_calc.py\stock_calc.pyproj", "{920B8DF2-9055-4477-B7AD-5034CAA6A053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920B8DF2-9055-4477-B7AD-5034CAA6A053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920B8DF2-9055-4477-B7AD-5034CAA6A053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5B949E-7EC1-4A83-8D86-6179C887B602}
+	EndGlobalSection
+EndGlobal
